@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 TravelAround AI — Intelligent Group Travel Planning Platform
 
 <div align="center">
@@ -260,3 +261,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ⭐ If you find this project useful, don’t forget to **star the repository**!
+=======
+# TravelAround
+AI-driven group travel planning platform built with the MERN stack, offering intelligent itinerary creation, preference management, budget forecasting, and effortless trip coordination.
+>>>>>>> 1517154c40058a097d3ed523e511d15543c43440
