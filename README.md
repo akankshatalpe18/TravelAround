@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧠 TravelAround AI — Intelligent Group Travel Planning Platform
 
 <div align="center">
