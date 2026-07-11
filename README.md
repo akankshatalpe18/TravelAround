@@ -193,3 +193,13 @@ JWT_SECRET=your_secret
 ```
 
 ---
+
+## 👩‍💻 Author
+
+**Akanksha Talpe**
+
+Computer Science Engineering Student
+
+- Passionate about AI-driven solutions
+- MERN Stack Specialist
+- Building innovative applications
